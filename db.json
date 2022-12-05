@@ -1,6 +1,6 @@
 {
   "estimates": [
-    { "id": 1, "description": "client 1,status:"13/12/96" ,job_plan:'firstjob'},
+    { "id": 1, "description":"estimate 1", "client" :"ajay","status":"draft","date":"13/12/96" ,"job_plan":"firstjob"},
   ],
   "clients": [
     { "id": 1, "body": "some comment", "postId": 1 },
